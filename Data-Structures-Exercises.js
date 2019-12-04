@@ -322,3 +322,54 @@ const listAnagram = function(string) {
         }
     }
 };
+
+/* ======== 11. Organization Chart =================
+Write a recursive function that prints the following organization 
+chart. Your output should be as shown below with proper indentation 
+to show the hierarchy. You may store the org chart in an object and 
+send that as an input to your program.
+Zuckerberg
+    Schroepfer
+        Bosworth
+            Steve
+            Kyle
+            Andra
+        Zhao
+            Richie
+            Sofia
+            Jen
+    Schrage
+        VanDyck
+            Sabrina
+            Michelle
+            Josh
+        Swain
+            Blanch
+            Tom
+            Joe
+    Sandberg
+        Goler
+            Eddie
+            Julie
+            Annie
+       Hernandez
+            Rowi
+            Inga
+            Morgan
+       Moissinac
+            Amy
+            Chuck
+            Vinni
+       Kelley
+            Eric
+            Ana
+            Wes
+*/
+
+/* ======== 12. Binary Representation =================
+Write a recursive function that prints out the binary representation 
+of a given number. For example, the program should take 3 as an input 
+and print 11 as output, or 25 as an input and print 11001 as an output. 
+Note that the binary representation of 0 should be 0.
+
+*/
